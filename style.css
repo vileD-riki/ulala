@@ -1,0 +1,16 @@
+a{
+    background: hotpink;
+    color:whitesmoke;
+    text-decoration: none;
+    margin:5px;
+    padding:5px;
+    transition:0.3s;
+}
+
+a:hover{
+   transform: scale(1.1);
+}
+
+a:active{
+    transform: scale(0.6);
+}
